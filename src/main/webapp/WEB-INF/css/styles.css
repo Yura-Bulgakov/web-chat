@@ -1,0 +1,23 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    margin-top: 20px;
+    text-align: center;
+}
+
+h4 {
+    color: red;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

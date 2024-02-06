@@ -1,0 +1,12 @@
+#nav-bar {
+    background-color: #000080;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+#nav-bar a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
